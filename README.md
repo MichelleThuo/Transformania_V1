@@ -16,7 +16,7 @@ Transformania is an Android application that utilizes Firebase ML Kit to transla
     
     *   Open a terminal window and navigate to your desired project directory.
         
-    *   Clone this repository using the command: git clone https://https://github.com/MichelleThuo/Transformania_V1.git
+    *   Clone this repository using the command: git clone https://github.com/MichelleThuo/Transformania_V1.git
         
 2.  **Download Dependencies:**
     
